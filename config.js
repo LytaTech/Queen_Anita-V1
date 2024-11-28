@@ -4,23 +4,23 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '2347084528285'
+global.nomerowner = ["2347084528285"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
-global.casterix = 'DeeCeeXxx'
+global.skizo = 'LYTA'
+global.casterix = 'LYTA'
 //watermark 
-global.packname = '*DAVID CYRIL*'
+global.packname = '*LYTA*'
 global.author = 'QUEEN_ANITA-V1'
 
 // cpanel 
-global.domain = 'https://' // deeceexxx
+global.domain = 'https://youtube.com/@lytamanhwa?si=-zshXnANLATjlHwh' // deeceexxx
 global.apikey2 = 'ptlc' // I love anita
 global.capikey2 = 'ptla' // david x anita 
 global.eggsnya = '15' // The id eggs used if the id is 5, just leave it, don't change it
-global.location = '1' // id location
+global.location = 'africa' // id location
 
 
 global.apilinode = ''// apikey vps account linode
